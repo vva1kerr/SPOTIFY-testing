@@ -1,0 +1,20 @@
+{
+    "danceability": 0.504,
+    "energy": 0.91,
+    "key": 11,
+    "loudness": -3.736,
+    "mode": 1,
+    "speechiness": 0.332,
+    "acousticness": 0.0235,
+    "instrumentalness": 4.16e-06,
+    "liveness": 0.175,
+    "valence": 0.337,
+    "tempo": 151.657,
+    "type": "audio_features",
+    "id": "6lDJ0CkQ6LdQv5EUQ39rpg",
+    "uri": "spotify:track:6lDJ0CkQ6LdQv5EUQ39rpg",
+    "track_href": "https://api.spotify.com/v1/tracks/6lDJ0CkQ6LdQv5EUQ39rpg",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6lDJ0CkQ6LdQv5EUQ39rpg",
+    "duration_ms": 110511,
+    "time_signature": 4
+}
